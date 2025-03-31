@@ -33,7 +33,7 @@ const Instructions = ({ navigation }) => {
             keyboard to guess. When the full word is revealed, your cowboy will shoot the zombie down and reset the challenge.
           </Text>
 
-          <Text style={styles.subHeader}>Challenge Mechanics Recap:</Text>
+          <Text style={styles.subHeader}>Challenge Mechanics:</Text>
           <Text style={styles.instructionText}>
             For each wrong guesses, the zombie will leap towards you! For each right guesses, you will be able to knock the zombie back!
           </Text>
